@@ -8,7 +8,7 @@ Simple set implementation. Uses sorted slices and generics.
 
 ### Documentation
 
-Full documentation is available on [GoDoc](http://godoc.org/github.com/bsm/sortedset)
+Full documentation is available on [go.dev](https://pkg.go.dev/github.com/bsm/sortedset).
 
 ### Example
 
